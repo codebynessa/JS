@@ -1,4 +1,7 @@
-var msg = "Hello";
-var nome = "vanessa";
+// var msg = "Hello";
+// msg.slice(4,6);
 
-alert(msg + " " + nome);
+// prompt(msg); // Hello
+
+ 
+alert(prompt("EScreva seu tweet:").slice(0,140));
