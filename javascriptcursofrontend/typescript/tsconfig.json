@@ -113,4 +113,7 @@
   "include": [
     "./src"
   ]
+  "exclude": [
+    ".prettierrc"
+  ]
 }
